@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\РешениеУравнения\bin\Debug\net7.0\РешениеУравнения.exe
+C:\Users\1\source\repos\РешениеУравнения\bin\Debug\net7.0\РешениеУравнения.deps.json
+C:\Users\1\source\repos\РешениеУравнения\bin\Debug\net7.0\РешениеУравнения.runtimeconfig.json
+C:\Users\1\source\repos\РешениеУравнения\bin\Debug\net7.0\РешениеУравнения.dll
+C:\Users\1\source\repos\РешениеУравнения\bin\Debug\net7.0\РешениеУравнения.pdb
+C:\Users\1\source\repos\РешениеУравнения\obj\Debug\net7.0\РешениеУравнения.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\РешениеУравнения\obj\Debug\net7.0\РешениеУравнения.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\РешениеУравнения\obj\Debug\net7.0\РешениеУравнения.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\РешениеУравнения\obj\Debug\net7.0\РешениеУравнения.AssemblyInfo.cs
+C:\Users\1\source\repos\РешениеУравнения\obj\Debug\net7.0\РешениеУравнения.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\РешениеУравнения\obj\Debug\net7.0\РешениеУравнения.dll
+C:\Users\1\source\repos\РешениеУравнения\obj\Debug\net7.0\refint\РешениеУравнения.dll
+C:\Users\1\source\repos\РешениеУравнения\obj\Debug\net7.0\РешениеУравнения.pdb
+C:\Users\1\source\repos\РешениеУравнения\obj\Debug\net7.0\РешениеУравнения.genruntimeconfig.cache
+C:\Users\1\source\repos\РешениеУравнения\obj\Debug\net7.0\ref\РешениеУравнения.dll
